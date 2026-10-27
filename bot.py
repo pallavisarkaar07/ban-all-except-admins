@@ -74,9 +74,9 @@ Here is the help :
     • If some errors happened, check the errors text file to manually ban/kick those users ID's
 
 --Help :--
-    You can contact the support here : **@EDM115_chat**
-    Subscribe for more : **@EDM115bots**
-    Source code : https://github.com/EDM115/ban-all-except-admins
+    You can contact the support here : **@Lovemeee07**
+    Subscribe for more : **@RPShyariwold**
+    Source code : https://github.com/pallavisarkaar07/ban-all-except-admins
     """)
 
 class Buttons:
