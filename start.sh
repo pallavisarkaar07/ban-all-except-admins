@@ -1,7 +1,6 @@
 echo "
 🔥 BanBot 🔥
-Copyright (c) 2022 EDM115
---> Join @EDM115bots
---> Follow EDM115 on Github
+Copyright (c) 2022 pallavisarkaar07
+--> Join @RPShyariwold
 "
 python3 bot.py
